@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ftdemo.mp4" />
-    <Content Include="test\test.txt" />
+    <Content Include="version 2-1-1\setup2-1-1.exe" />
     <Content Include="theme.png" />
     <Content Include="version 1-0-1\setup1-0-1.exe" />
     <Content Include="version 2-0-1\setup2-0-1.exe" />
