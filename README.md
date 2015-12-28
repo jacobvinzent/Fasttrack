@@ -10,7 +10,7 @@ Transfer dimensions and expressions from QlikView 11 to Qlik Sense 2.1
 
 
 ## 
-![alt tag](https://github.com/jacobvinzent/Fasttrack/blob/master/theme.png)
+![alt tag](https://github.com/jacobvinzent/Fasttrack/raw/master/theme.png)
 
 ## See how it works
 [Help movie](https://github.com/jacobvinzent/Fasttrack/raw/version-2-1-1/ftdemo.mp4)
