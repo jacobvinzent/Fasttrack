@@ -2,7 +2,7 @@
 Transfer dimensions and expressions from QlikView 11 to Qlik Sense 2.1 
 
 ## Project Site
-[https://github.com/jacobvinzent/Fasttrack](https://github.com/jacobvinzent/Fasttrack[/url)
+[https://github.com/jacobvinzent/Fasttrack](https://github.com/jacobvinzent/Fasttrack)
 
 ## Download Link
 [Installation file](https://github.com/jacobvinzent/Fasttrack/blob/master/setup.exe[/url])
