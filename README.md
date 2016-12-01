@@ -1,11 +1,11 @@
 # Fasttrack QlikView to QlikSense
-Transfer dimensions and expressions from QlikView 11 to Qlik Sense 2.1 
+Transfer dimensions and expressions from QlikView 11 or QlikView 12 to Qlik Sense 3.1.2 
 
 ## Project Site
 [https://github.com/jacobvinzent/Fasttrack](https://github.com/jacobvinzent/Fasttrack)
 
 ## Download Link
-[Installation file](https://github.com/jacobvinzent/Fasttrack/blob/Version2-2-3/Version%202-2-3/setup.exe?raw=true)
+[Installation file](https://github.com/jacobvinzent/Fasttrack/blob/Version3-1-2/version%203-1-2/setup.exe?raw=true)
 
 
 
